@@ -4,7 +4,7 @@
   </p>
 <p align="left"> Игровой движок: Unity 2021.3.14f1
   </p>
-<p align="left"> Название работы: Изучение Tilemap
+<p align="left"> Название работы: Создание UFO 2D
   </p>
   
 
