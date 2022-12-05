@@ -9,7 +9,7 @@
   </p>
 
 
-![Screenshot-4.png](https://i.postimg.cc/MG6935gV/Screenshot-4.png)
+![Screens.png](https://i.postimg.cc/MG6935gV/Screenshot-4.png)
 
 
 <p align="center">
