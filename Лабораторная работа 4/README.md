@@ -5,7 +5,7 @@
   </p>
 <p align="left"> Игровой движок: Unity 2021.3.14f1
   </p>
-<p align="left"> Название работы: Разработка проекта Angru Bird
+<p align="left"> Название работы: Разработка проекта Angry Bird
   </p>
 
 
