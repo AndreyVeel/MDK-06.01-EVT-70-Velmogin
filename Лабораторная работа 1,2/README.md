@@ -46,3 +46,7 @@
 <p align="center">
 Рисунок 15.4 - Скрипт игрового объекта Player.cs
 </p>
+
+
+![image](https://user-images.githubusercontent.com/119512231/205581085-44a56232-c025-4221-a565-c24636c01434.png)
+
