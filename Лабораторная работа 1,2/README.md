@@ -8,9 +8,9 @@
   </p>
   
 
-<p align="center">
+
   ![image](https://user-images.githubusercontent.com/119512231/205584482-8614d5d8-b748-45b7-975d-b10f11984ae2.png)
-</p>
+
 
 
 <p align="center">
